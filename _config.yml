@@ -1,0 +1,15 @@
+# Site settings
+title: Talita Goulart
+email: talita_goulart@yahoo.com.br
+description: "Blog sobre desenvolvimento front-end"
+baseurl: "/talitagoulart.github.io/_site"
+url: "http://talitagoulart.com.br"
+twitter_username: talitacgo
+github_username:  talitagoulart
+facebook_username:  talita.c.goulart
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
