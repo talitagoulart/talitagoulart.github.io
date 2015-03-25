@@ -3,10 +3,10 @@ title: Talita Goulart
 email: talita_goulart@yahoo.com.br
 description: "Blog sobre desenvolvimento front-end"
 baseurl: "http://blog.talitagoulart.com.br"
-url: "http://talitagoulart.com.br"
+url: "http://www.talitagoulart.com.br"
 twitter_username: talitacgo
-github_username:  talitagoulart
-facebook_username:  talita.c.goulart
+github_username: talitagoulart
+facebook_username: talita.c.goulart
 
 # Build settings
 markdown: kramdown
