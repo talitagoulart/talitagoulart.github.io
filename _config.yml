@@ -2,7 +2,7 @@
 title: Talita Goulart
 email: talita_goulart@yahoo.com.br
 description: "Blog sobre desenvolvimento front-end"
-baseurl: "http://blog.talitagoulart.com.br"
+baseurl: "/blog"
 url: "http://www.talitagoulart.com.br"
 twitter_username: talitacgo
 github_username: talitagoulart
